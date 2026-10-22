@@ -1,0 +1,40 @@
+
+[behaviour]
+	#This section determines the behaviour of the Weeping Angels.
+	#Range for player visibility check.
+	#Range: 1 ~ 100
+	stalk_range = 65
+	#Allow angels to break light-emitting blocks?
+	block_breaking = true
+
+[damage]
+	#Type of hurt inflicted by angels.
+	#Allowed Values: PICKAXE, PICKAXE_AND_GENERATOR, NONE, GENERATOR, ANYTHING
+	hurt_type = "PICKAXE_AND_GENERATOR"
+
+[teleporting]
+	#Range for teleportation.
+	#Range: > 1
+	teleport_range = 120
+	#Allow teleporting across dimensions?
+	interdimensional_teleporting = false
+	#Allow Angel theft?
+	angel_theft = false
+	#Chance of teleportation occurring.
+	#Range: 1 ~ 100
+	teleport_chance = 50
+	#Dimensions where teleportation is banned.
+	banned_dimensions = ["minecraft:the_end"]
+
+[spawns]
+	#Natural spawning stops once this many Weeping Angels are already within 'nearby_radius' blocks of the spawn position. 0 = no limit.
+	#Range: 0 ~ 1000
+	max_nearby = 6
+	#The radius (in blocks) used by 'max_nearby'.
+	#Range: 1 ~ 256
+	nearby_radius = 48
+	#Dimensions Weeping Angels will never spawn in naturally, e.g. ["ad_astra:moon"]. Per-biome settings are in config/weeping_angels_spawns.json.
+	spawn_dimension_blacklist = []
+	#Generate Snow Angels (angels buried in snow) in snowy biomes. Only affects newly generated chunks. Requires a restart.
+	snow_angels = true
+

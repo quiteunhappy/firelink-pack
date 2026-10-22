@@ -1,0 +1,13 @@
+{
+  "name": "Estus",
+  "icon": "bonfires:estus_flask",
+  "category": "patchouli:basics",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bonfires:estus_flask",
+      "text": "Your flask refills when you rest or respawn.$(br2)$(item)Estus Shards$() add a charge. $(item)Undead Bone Shards$(), dropped now and then by the undead, strengthen each sip at a bonfire."
+    }
+  ]
+}

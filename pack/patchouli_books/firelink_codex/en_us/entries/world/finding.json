@@ -1,0 +1,12 @@
+{
+  "name": "Finding Trouble",
+  "icon": "explorerscompass:explorerscompass",
+  "category": "patchouli:world",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "An $(item)Explorer's Compass$() points to any structure; a $(item)Nature's Compass$() to any biome. Both are craftable.$(br2)When you enter somewhere that matters, its name appears. The first time, loudly."
+    }
+  ]
+}

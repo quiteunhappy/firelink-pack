@@ -1,0 +1,16 @@
+{
+  "name": "Death",
+  "icon": "minecraft:skeleton_skull",
+  "category": "patchouli:basics",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "When you die, your $(l)armour, offhand, hotbar and accessories$() come back with you.$(br2)Your $(l)pack$() (the rest of your inventory) and your experience stay on your corpse where you fell. Go back for it. Friends can open it too, so be nice."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Every death is counted on the player list ($(l)Tab$()). Every tenth is announced.$(br2)$(o)YOU DIED$() is not a suggestion."
+    }
+  ]
+}

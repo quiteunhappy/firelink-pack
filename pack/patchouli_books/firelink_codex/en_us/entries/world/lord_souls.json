@@ -1,0 +1,13 @@
+{
+  "name": "Lord Souls",
+  "icon": "soulsweapons:lord_soul_red",
+  "category": "patchouli:world",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "soulsweapons:lord_soul_red",
+      "text": "Great beasts carry Lord Souls: Ignis, the Leviathan, the Lich, Frostmaw, Captain Cornelia, the Apostle, Artorias and worse.$(br2)Lord Souls forge legendary weapons. JEI has the recipes."
+    }
+  ]
+}

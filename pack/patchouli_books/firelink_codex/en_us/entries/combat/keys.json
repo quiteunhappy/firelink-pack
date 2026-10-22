@@ -1,0 +1,12 @@
+{
+  "name": "Controls",
+  "icon": "minecraft:oak_sign",
+  "category": "patchouli:combat",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Soulslike Weaponry: $(l)J$() parry, $(l)I$() weapon ability, $(l),$() trick swap.$(br)Voice chat: $(l)V$() menu, $(l)`$() groups.$(br)Backpack $(l)B$(), Curios $(l)'$(), world map $(l)M$().$(br2)Anything clashing? Options > Controls has a search box and flags conflicts in red."
+    }
+  ]
+}

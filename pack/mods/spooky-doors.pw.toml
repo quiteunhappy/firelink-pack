@@ -1,0 +1,12 @@
+name = "Spooky Doors"
+filename = "spookydoors-forge-1.20.1-20.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j5axkwld/versions/fbJTcL2O/spookydoors-forge-1.20.1-20.1.13.jar"
+hash-format = "sha512"
+hash = "38a2e5eae24992e428eb15af19dc3aadfd4f14825ede6bfc9a33329415f3ab06b4281d7d1eda5e2e10d2703b1ba39861a2fe906dae2872e53d453e543caf98fe"
+
+[update.modrinth]
+mod-id = "j5axkwld"
+version = "fbJTcL2O"

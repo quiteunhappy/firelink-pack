@@ -1,0 +1,12 @@
+name = "Spooky Trees"
+filename = "spookytrees-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bf0Bim5p/versions/jcsVhTPk/spookytrees-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8fdb73a719a4018445a99ac4f8c9bcfad30939b4f6ed50bc34cff3d0dfc11b38e2c06994b972829fc559fcac1a909bf0672698cf5a84afb892eb62e0a7868049"
+
+[update.modrinth]
+mod-id = "Bf0Bim5p"
+version = "jcsVhTPk"

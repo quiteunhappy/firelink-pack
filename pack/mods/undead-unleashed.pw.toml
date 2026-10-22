@@ -1,0 +1,12 @@
+name = "Undead Unleashed - Continued"
+filename = "undead_unleashed-2.0.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kMGkRHe/versions/RKiilUGg/undead_unleashed-2.0.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f46259d515942a62fd22d2f1c1a12eb82e38e1b84d05274302693d487553648f3789da5a5fb17ee5526d2bcfbeb945f0fec26ef50ce7474b7212bd8a926bef3d"
+
+[update.modrinth]
+mod-id = "9kMGkRHe"
+version = "RKiilUGg"

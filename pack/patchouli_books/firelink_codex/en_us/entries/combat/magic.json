@@ -1,0 +1,22 @@
+{
+  "name": "Sorcery & Miracles",
+  "icon": "irons_spellbooks:copper_spell_book",
+  "category": "patchouli:combat",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:copper_spell_book",
+      "text": "Spells live in spellbooks. Bind a scroll into one at an $(item)Inscription Table$() (there's one in Firelink's chapel).",
+      "title": "Spellbooks"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "A spellbook only works $(l)equipped$(): open your Curios slots with $(l)'$() (or the button in your inventory) and put it in the $(l)Spellbook$() slot.$(br2)Then cast with $(l)mouse side button 5$(), and pick spells from the wheel on $(l)side button 4$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Necromancy is Goety's business: souls power its wands. Its focus wand is on $(l)Z$(), the focus wheel on $(l)=$().$(br2)Scrolls cast once and crumble. Spellbooks remember."
+    }
+  ]
+}

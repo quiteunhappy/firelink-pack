@@ -1,0 +1,13 @@
+{
+  "name": "Reinforcement",
+  "icon": "bonfires:titanite_shard",
+  "category": "patchouli:basics",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bonfires:titanite_shard",
+      "text": "Smelt obsidian into Titanite. Reinforce weapons and armour at a bonfire, up to +10: shards, large shards, chunks, then a slab.$(br2)Old dungeons hide more."
+    }
+  ]
+}

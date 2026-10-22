@@ -1,0 +1,12 @@
+name = "Dark Souls Expansion"
+filename = "DarkSoulsExpansionv5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7FW7w0gH/versions/UNbH4u5s/DarkSoulsExpansionv5.2.1.jar"
+hash-format = "sha512"
+hash = "4534971a1f550d21372f43a11a9932b20c974e90d7e6c48b436eb1f8005c1a4a47af8e578d3e5036acb014bdd9e42c8d47ce006915fa652a862de2bce36e2d3c"
+
+[update.modrinth]
+mod-id = "7FW7w0gH"
+version = "UNbH4u5s"
