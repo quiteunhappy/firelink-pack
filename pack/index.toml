@@ -654,7 +654,7 @@ hash = "5c408ebddb53a538303b2b046d7c2e7e3b56a6e535fc5a754e4de3d5a9b8876c"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/leveling.json"
-hash = "c0d5c2ee9a6340521b680af9a26f3b0566995497c87a13e35b837ccb125b35e9"
+hash = "e1676d0bf0015437c86317095771c2dafebeb6471f58afef3c88a23b5928a816"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/path.json"
@@ -738,7 +738,7 @@ hash = "670f8ee9c3b9b3f690d2ebbd97acd50484e71946dca7d3e9aa35309686fe64da"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/together/together.json"
-hash = "01bf589b7ed250939dac2033b03450e8c68da54045e661c300122c8e036ac2e6"
+hash = "f6d1a5b89df26d69ea27f976be2dd84450b008cc61e8f94bf1f245838d97888b"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/finding.json"

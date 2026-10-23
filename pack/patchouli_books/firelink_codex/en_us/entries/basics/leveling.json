@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Rest beside a lit bonfire for five seconds and a menu appears in chat. Click a stat to raise it, paying in $(l)experience levels$(). The price rises with your $(l)Soul Level$(), shown under your name."
+      "text": "Rest beside a lit bonfire for five seconds and six $(l)runes$() rise around the fire. Right-click one to raise that stat, paying in $(l)experience levels$(). The price rises with your $(l)Soul Level$(), shown under your name; the action bar tells you what the next level costs."
     },
     {
       "type": "patchouli:text",
