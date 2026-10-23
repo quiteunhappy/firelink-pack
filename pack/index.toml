@@ -18,7 +18,7 @@ hash = "44a3e6cb887147425660856281c67b116fce600585d6d68b13dbdff0df5837e2"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "762aa1f5516f67b8283dd505d7ae8cfbb0d444e31e2da6f9c772c76cad88bde1"
+hash = "cc0886cfe4d1ee9aa0821e30bf52f440457308c55c58c0fde59c3b5d47c02964"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
