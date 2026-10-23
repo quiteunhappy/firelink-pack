@@ -1,0 +1,12 @@
+{
+  "name": "The Path",
+  "icon": "bonfires:coiled_sword",
+  "category": "patchouli:basics",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lost? Open your $(l)Advancements$() (L) and pick $(l)The Path$() tab. It runs from the Undercroft to the Kiln of the First Flame, and every step says where to go next.$(br2)Bosses, Lord Souls, Lordran, and at the very end a dragon. Kill it and $(l)the fire is linked$(), for everyone."
+    }
+  ]
+}

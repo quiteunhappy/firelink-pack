@@ -2,15 +2,19 @@
   "name": "Afflictions",
   "icon": "minecraft:fermented_spider_eye",
   "category": "patchouli:basics",
-  "sortnum": 9,
+  "sortnum": 11,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The curse takes its toll. Every $(l)ten minutes$() of play you develop an $(l)affliction$(): blindness, brittle bones, a missing hand, tics, an allergy to flowers... twenty-four in all. You can carry three.$(br2)$(l)Stand beside a lit bonfire for five seconds$() and they all ease. Then the clock starts again."
+      "text": "The curse takes its toll. Every $(l)ten minutes$() of play you develop an $(l)affliction$(): blindness, brittle bones, a missing hand, tics, an allergy to flowers... twenty-four in all. You can carry three."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)/trigger fl_afflictions$() lists yours, and how long until the next. Everyone else is told when you develop one.$(br2)Unless you have $(l)Anosognosia$(). Then you're fine. Completely fine. Don't listen to them."
+      "text": "$(l)Stand beside a lit bonfire for five seconds$() and they all ease. Then the clock starts again. Each death brings the next one two minutes sooner.$(br2)$(l)/trigger fl_afflictions$() lists yours, and how long until the next. Everyone else is told when you develop one."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Unless you have $(l)Anosognosia$(). Then you're fine. Completely fine. Don't listen to them."
     }
   ]
 }

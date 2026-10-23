@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/epicfight-client.toml"
+hash = "9dc3414d4d2a12757db48f8dd5a7fe4cd8ea0068a3fbf2e0db20ef4f9c4c9e98"
+
+[[files]]
 file = "config/defaultoptions/extra/config/verity-common.toml"
 hash = "bbd5475dca5578ff9950a6f21edb13fed63dbf68d67203ecf92975502288569c"
 
@@ -602,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "2268b4f20c551bbedaa610754c900ee65b633cf7ce3b60f2d2f1cafdc53e68e4"
+hash = "d7f7439c05c2245b1f3720595e4b23fde8cc585394d73fae1b7cad85171fab11"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -626,39 +630,47 @@ hash = "7bbf15b7c315187b376819ab6c8a4d574af158c848278c479b27a03abed4fa81"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/afflictions.json"
-hash = "5c1a9b4225a9efbed91668379c0612bc551b3148a87f907cd902ed95a9899996"
+hash = "c6edb83c6d8c631d3994f119d2862d5852894dfd3237fe618de33b3c7e77be0d"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/bonfires.json"
-hash = "b12b1c7b16576cce2ac9b7f87783f125466d5b6ec39630d697a7d612f2110910"
+hash = "c22e188c34cb2283c0266e327e823eff3dae66bd0a511d025c702fff37d81333"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/death.json"
-hash = "be549a8ddd38918f0fc0a8f1c0238b810eb1629ff434918edef5a30924287890"
+hash = "c2d6e0574bb09b2a805f5ba2fa381ce1416054795c2a3fd32858f90a6e9c429a"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/estus.json"
-hash = "065f149be111837ecdc042eb8682f61fb40d101b9f6b9cea647b22c27c9fdb00"
+hash = "fde898e6ad52cb1991609cd9750f83ad6fccd7f88f1a8b51e5d1b3fe72b34b1c"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/firelink.json"
-hash = "69072650333aab9a0f10b6ff7d23c71d5de523b10a1925c7607c49859b6f0e82"
+hash = "30fe4d8d9b971943bb918493939d9fa45c79ec172835ba41cb1ea2cc36d5613a"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/first_steps.json"
 hash = "5c408ebddb53a538303b2b046d7c2e7e3b56a6e535fc5a754e4de3d5a9b8876c"
 
 [[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/leveling.json"
+hash = "c0d5c2ee9a6340521b680af9a26f3b0566995497c87a13e35b837ccb125b35e9"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/path.json"
+hash = "17a655fa3a1dd7bb9ab8617a9c99efa4376579931ec414f8a5b4c5523f2e98fa"
+
+[[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/reinforcement.json"
-hash = "e3b2aa4e8e213762c118f6b46471bc82aee774f8120d08f79b67a351179a418b"
+hash = "ad1aac60b6236c67b9d13be7aa2bc6b6816842564486ed4e3dab524931834348"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/sanity.json"
-hash = "67f6992e95cdb9c687377083396c31aa5a1ceeee474cf638ace01a62b73fd4ac"
+hash = "2d6f65a57d3dc7026056a710106dea74935000ce93a450f4e157c4f3eb4f3f86"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/souls.json"
-hash = "f941135221b150388a45807acf39150d33b8d5214c33a6b12f6d1a5398199f07"
+hash = "f2df3bd1dbba1d475e22e5ce2a2fb419f85ffb7397506ab7f1ee70f8a7ed1948"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/welcome.json"

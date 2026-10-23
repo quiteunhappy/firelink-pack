@@ -2,7 +2,7 @@
   "name": "Estus",
   "icon": "bonfires:estus_flask",
   "category": "patchouli:basics",
-  "sortnum": 3,
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:spotlight",

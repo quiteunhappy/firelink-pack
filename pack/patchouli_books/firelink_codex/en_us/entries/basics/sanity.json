@@ -2,7 +2,7 @@
   "name": "Sanity",
   "icon": "minecraft:soul_lantern",
   "category": "patchouli:basics",
-  "sortnum": 8,
+  "sortnum": 10,
   "pages": [
     {
       "type": "patchouli:text",

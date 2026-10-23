@@ -1,0 +1,9 @@
+# Firelink's client defaults for Epic Fight, copied to config/ by Default Options only if the player has
+# no epicfight-client.toml yet. Forge fills in every other setting with the mod's default on first load.
+[ingame]
+	#Switch to third person when entering battle stance
+	camera_auto_switch = true
+
+	[ingame.camera]
+		#Third-person camera: ALWAYS (over the shoulder whenever in third person), WHEN_AIMING, ALWAYS_BACK
+		camera_mode = "ALWAYS"

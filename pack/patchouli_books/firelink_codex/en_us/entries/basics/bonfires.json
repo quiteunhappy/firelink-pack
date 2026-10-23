@@ -2,11 +2,15 @@
   "name": "Bonfires",
   "icon": "bonfires:ash_bone_pile",
   "category": "patchouli:basics",
-  "sortnum": 2,
+  "sortnum": 3,
   "pages": [
     {
       "type": "patchouli:text",
       "text": "Rest at a lit bonfire to $(l)heal$(), $(l)refill your Estus$() and $(l)set where you wake$().$(br2)You can travel between any bonfires you have rested at. Enemies nearby? No rest."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stand beside$() a lit bonfire for five seconds, too. It eases your $(l)afflictions$(), mends your sanity, and lets you $(l)level up$(). Wake beside one after dying and the same is true."
     },
     {
       "type": "patchouli:spotlight",

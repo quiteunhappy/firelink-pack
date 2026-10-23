@@ -1,0 +1,16 @@
+{
+  "name": "Leveling Up",
+  "icon": "minecraft:experience_bottle",
+  "category": "patchouli:basics",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Rest beside a lit bonfire for five seconds and a menu appears in chat. Click a stat to raise it, paying in $(l)experience levels$(). The price rises with your $(l)Soul Level$(), shown under your name."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Vigor$(): health. $(l)Endurance$(): stamina. $(l)Strength$(): melee damage. $(l)Dexterity$(): attack speed. $(l)Attunement$(): mana. $(l)Intelligence$(): spell power. Twenty points each, at most.$(br2)Experience also pays for enchanting and the anvil. Choose."
+    }
+  ]
+}
