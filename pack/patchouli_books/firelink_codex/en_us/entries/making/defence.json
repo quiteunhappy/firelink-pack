@@ -2,7 +2,7 @@
   "name": "Defence",
   "icon": "bosses_of_mass_destruction:mob_ward",
   "category": "patchouli:making",
-  "sortnum": 1,
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:spotlight",
@@ -11,7 +11,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "For anything that walks up anyway: $(l)Create Big Cannons$(). Cast a barrel, mount it, load powder and shot. Aim with $(l)C$() while manning it.$(br2)Light keeps most things away. Not all things."
+      "text": "For anything that walks up anyway: $(l)Create Big Cannons$(). Cast a barrel, mount it, load powder and shot. Aim with $(l)C$() while manning it.$(br2)Light keeps most things away. Not all things. Doors keep out fewer than you'd think."
     }
   ]
 }

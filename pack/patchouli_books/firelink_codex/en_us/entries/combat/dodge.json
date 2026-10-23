@@ -1,0 +1,12 @@
+{
+  "name": "Dodge, Guard, Parry",
+  "icon": "minecraft:shield",
+  "category": "patchouli:combat",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Dodge $(l)through$() attacks, not away from them: you're briefly untouchable mid-roll.$(br2)Guarding takes hits on your stamina. Guard at the last moment with the right skill and you'll $(l)parry$(), leaving your foe open.$(br2)Each weapon has an $(l)innate skill$(), a special move; skill books found in the world teach new ones ($(l)K$() to equip)."
+    }
+  ]
+}

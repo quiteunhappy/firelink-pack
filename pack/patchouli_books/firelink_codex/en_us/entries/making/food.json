@@ -1,0 +1,12 @@
+{
+  "name": "Food and Farming",
+  "icon": "farmersdelight:cooking_pot",
+  "category": "patchouli:making",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Farmer's Delight adds proper meals: a $(item)Cooking Pot$() over a fire, a $(item)Cutting Board$() and a knife. Hearty meals last far longer than bread.$(br2)Fields need tending and the night is long: plant near home, wall it in, and let Create do the harvesting. AppleSkin shows how filling each food is."
+    }
+  ]
+}

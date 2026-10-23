@@ -11,7 +11,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Put $(item)Mechanical Harvesters$() and $(item)Ploughs$() on a moving contraption and your fields tend themselves while you stay behind the walls.$(br2)Central Kitchen lets Create run Farmer's Delight cooking. Your toolboxes open on $(l)Right Alt$()."
+      "text": "Put $(item)Mechanical Harvesters$() and $(item)Ploughs$() on a moving contraption and your fields tend themselves while you stay behind the walls.$(br2)Central Kitchen lets Create run Farmer's Delight cooking. Toolboxes open on $(l)Right Alt$()."
     }
   ]
 }

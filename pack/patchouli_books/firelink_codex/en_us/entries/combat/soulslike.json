@@ -1,0 +1,12 @@
+{
+  "name": "Legendary Weapons",
+  "icon": "soulsweapons:moonlight_greatsword",
+  "category": "patchouli:combat",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lord Souls forge legendary weapons from Soulslike Weaponry: the Moonlight Greatsword, the Dragonslayer Swordspear and many more. JEI shows the recipes.$(br2)They have their own keys: $(l)J$() parry, $(l)I$() weapon ability, $(l),$() swap a trick weapon's form, $(l).$() gather summoned souls."
+    }
+  ]
+}

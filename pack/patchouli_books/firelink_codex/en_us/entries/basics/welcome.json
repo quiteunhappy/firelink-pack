@@ -1,0 +1,16 @@
+{
+  "name": "Welcome",
+  "icon": "minecraft:candle",
+  "category": "patchouli:basics",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Firelink is Minecraft by way of $(l)Dark Souls$(): hard fights, great beasts, bonfires and Estus, and a world that would quite like you dead. It is also, on purpose, a bit silly.$(br2)The aim: survive, grow strong, take $(l)Lord Souls$() from the bosses, and build somewhere the night can't reach. You are far stronger together."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Die, learn, try again. Your gear comes back with you."
+    }
+  ]
+}

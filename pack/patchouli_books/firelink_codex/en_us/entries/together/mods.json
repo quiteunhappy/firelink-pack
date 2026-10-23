@@ -1,0 +1,20 @@
+{
+  "name": "The Mods",
+  "icon": "minecraft:knowledge_book",
+  "category": "patchouli:together",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Souls$(): Epic Fight, Bonfires, Soulslike Weaponry, Simply Swords, Corpse, Dark Souls Expansion.$(br2)$(l)Bosses and dungeons$(): L_Ender's Cataclysm, Bosses of Mass Destruction, Mowzie's Mobs, Aquamirae, When Dungeons Arise, YUNG's, Dungeons and Taverns, Grim Kingdoms, Lootr, Artifacts.$(br2)$(l)Magic$(): Iron's Spells 'n Spellbooks, Goety."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Horror$(): Born in Chaos, The Graveyard, The Man From The Fog, Cave Dweller, Weeping Angels, The Knocker, Nyf's Spiders, Enhanced Celestials, Deeper and Darker, Mutant Monsters, Sanity, Myths and Legends, Undead Unleashed, Alex's Mobs."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Making$(): Create, Big Cannons, Central Kitchen, Copycats, Macaw's, Farmer's Delight, Supplementaries, Sophisticated Backpacks and Storage.$(br2)$(l)World and feel$(): Terralith, Spooky Trees and Doors, Haunted Harvest, Soul Fire'd, Sound Physics, Ambient Sounds, Simple Voice Chat, and shaders (Video Settings > Shader Packs)."
+    }
+  ]
+}

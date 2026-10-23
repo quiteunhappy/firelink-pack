@@ -1,0 +1,12 @@
+{
+  "name": "Finding Recipes",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:making",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)JEI$() is the list on the right of your inventory: hover an item and press $(l)R$() for its recipe or $(l)U$() for its uses. When two recipes clash, Polymorph lets you pick the result.$(br2)Jade shows what you're looking at, and from which mod."
+    }
+  ]
+}

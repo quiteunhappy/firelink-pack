@@ -2,15 +2,11 @@
   "name": "The Night",
   "icon": "minecraft:clock",
   "category": "patchouli:world",
-  "sortnum": 3,
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Elsewhere: blood moons, a tall man in the fog, statues that move when you blink, something below, and a knock at the door.$(br2)$(l)Do not answer the door.$()"
-    },
-    {
-      "type": "patchouli:text",
-      "text": "Voice chat is proximity based. Screaming carries.$(br2)$(o)Praise the sun!$()"
+      "text": "Blood moons fill the land with monsters and won't let you sleep. Stay in.$(br2)$(l)Weeping Angels$(): don't look away. $(l)The Man From The Fog$(): run, and don't stop. $(l)Something below$() in the caves follows quietly.$(br2)And if someone knocks at your door at night: $(l)do not answer the door.$()$(br2)Voice chat is proximity based. Screaming carries. $(o)Praise the sun!$()"
     }
   ]
 }

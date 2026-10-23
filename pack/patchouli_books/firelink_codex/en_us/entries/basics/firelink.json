@@ -2,19 +2,15 @@
   "name": "Firelink Shrine",
   "icon": "minecraft:campfire",
   "category": "patchouli:basics",
-  "sortnum": 4,
+  "sortnum": 7,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Firelink is a sanctuary. Nothing hostile lingers here, and nothing here can be broken.$(br2)The $(l)Merchant$() and $(l)Blacksmith$() trade for souls. Every kill feeds your soul count. No refunds."
+      "text": "Firelink is a sanctuary. Nothing hostile lingers here, and nothing here can be broken (you're kept in adventure mode inside its walls).$(br2)Here you'll find the bonfire and its shelter, the class statues, the burial gifts, the Merchant and Blacksmith, an anvil and smithing table, and the $(l)Inscription Table$() in the chapel."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Choose your origin$(): right-click one of the six statues around the bonfire. Knight, Sorcerer, Pyromancer, Cleric, Thief or Deprived. One choice only.$(br2)Then take a $(l)burial gift$() from the pedestals in the chapel. Also one only."
-    },
-    {
-      "type": "patchouli:text",
-      "text": "The $(l)Inscription Table$() in the chapel binds spell scrolls into spellbooks.$(br2)Rest under the bonfire's roof when it rains: the rain wears on your sanity, the fire mends it."
+      "text": "Behind the altar waits the sealed gate to $(l)Lordran$()."
     }
   ]
 }

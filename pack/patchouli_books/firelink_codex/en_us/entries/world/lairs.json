@@ -1,0 +1,24 @@
+{
+  "name": "Lairs",
+  "icon": "minecraft:wither_skeleton_skull",
+  "category": "patchouli:world",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Cataclysm$(): Ignis in the Burning Arena and the Netherite Monstrosity at the Soul Black Smith, both in the Nether; the Ender Guardian in the Ruined Citadel; the Leviathan in the Sunken City; the Ancient Remnant in the Cursed Pyramid; Maledictus in the Frosted Prison; Scylla at the Acropolis; the Harbinger in the Ancient Factory."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Mass Destruction$(): the Lich's tower in the cold; the Obsidilith in the End; the Gauntlet in the Nether; the Void Blossom deep in lush caves.$(br2)$(l)Mowzie's$(): the Ferrous Wroughtnaut in its chamber underground; Frostmaw asleep in the snow; Umvuthi in its grove; the Sculptor atop a mountain monastery."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Soulslike Weaponry$(): the Decaying King in the Nether; Old Champion's Remains at the Champion's Graves; the Returning Knight answers a Lost Soul placed on the Old Moon Altar in the Cathedral."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Aquamirae$(): blow a shell horn by the water in the Ice Maze and Captain Cornelia comes. $(l)The Graveyard$(): wake the Corrupted Champion at the Lich Prison, at night, with a vial of blood and the three bone staff pieces."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Souls",
+  "icon": "minecraft:soul_lantern",
+  "category": "patchouli:basics",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Every kill feeds your $(l)souls$(), shown on screen: a little for small fry, five for most things, forty for the elite, a hundred and fifty for lords and bosses.$(br2)Spend souls with the $(l)Merchant$() and $(l)Blacksmith$() in Firelink. No refunds.$(br2)$(l)Lord Souls$() are something else: items carried by great beasts, used to forge legendary weapons."
+    }
+  ]
+}

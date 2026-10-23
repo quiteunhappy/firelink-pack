@@ -1,0 +1,25 @@
+{
+  "name": "Controls",
+  "icon": "minecraft:oak_sign",
+  "category": "patchouli:combat",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Combat$()$(br)R  battle / mining stance$(br)Left Alt  dodge$(br)Right-click  guard$(br)G  lock on (arrows move it)$(br)K  skills$(br)Space  jump / movement skill$(br2)$(l)Soulslike$()$(br)J parry, I ability, , trick swap",
+      "title": "Controls"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Magic$()$(br)Mouse 5  cast, Mouse 4  spell wheel$(br)Caps Lock  spell bar$(br)'  accessory slots (spellbook)$(br)Z  Goety wand, =  focus wheel$(br2)$(l)Voice$()$(br)V  voice chat menu$(br)`  voice groups"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Everything else$()$(br)B  backpack, -  quiver$(br)M  world map$(br)Right Alt  Create toolbox$(br)W  (over a Create item) how-to$(br)C  aim a cannon$(br); \\  X  Cataclysm gear$(br)Tab  players and deaths$(br2)In JEI: R recipe, U uses."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Anything clashing or missing? $(l)Options > Controls$() has a search box and shows conflicts in red."
+    }
+  ]
+}

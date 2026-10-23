@@ -2,15 +2,11 @@
   "name": "Building",
   "icon": "minecraft:deepslate_tiles",
   "category": "patchouli:making",
-  "sortnum": 2,
+  "sortnum": 3,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Macaw's adds proper $(l)roofs$(), $(l)doors$(), $(l)windows$(), walls and bridges. Copycats can take on the look of any block.$(br2)Upgradable chests and barrels (Sophisticated Storage) plug straight into Create's belts and funnels."
-    },
-    {
-      "type": "patchouli:text",
-      "text": "Shaders are optional: $(l)Options > Video Settings > Shader Packs$(). Complementary Unbound is moody and foggy; MakeUp Ultra Fast is for gentler machines."
+      "text": "Macaw's adds proper $(l)roofs$(), $(l)doors$(), $(l)windows$(), walls and bridges. Copycats can take on the look of any block. Supplementaries and Amendments add the small touches: lanterns on walls, jars, signposts."
     }
   ]
 }

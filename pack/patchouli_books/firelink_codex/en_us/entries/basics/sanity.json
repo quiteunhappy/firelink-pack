@@ -1,0 +1,12 @@
+{
+  "name": "Sanity",
+  "icon": "minecraft:soul_lantern",
+  "category": "patchouli:basics",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Your $(l)sanity$() wears down in darkness, in the rain, near horrors and when changing worlds. Let it fall far enough and you'll start seeing things. Some of them are real.$(br2)It recovers when you sleep, sit by a campfire, or rest near a bonfire. Firelink's bonfire mends it from twelve blocks away, under a roof."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Necromancy",
+  "icon": "goety:dark_wand",
+  "category": "patchouli:combat",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Goety$() is dark magic: wands and foci powered by souls, rituals at dark altars, and servants raised from the dead.$(br2)Its focus wand is on $(l)Z$(), the focus wheel on $(l)=$(), the focus bag on $(l)0$(). Its own guidebook explains the rites. Some of Goety's lords are among the worst things in this world."
+    }
+  ]
+}

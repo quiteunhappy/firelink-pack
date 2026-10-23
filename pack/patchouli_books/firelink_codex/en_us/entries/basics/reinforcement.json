@@ -2,7 +2,7 @@
   "name": "Reinforcement",
   "icon": "bonfires:titanite_shard",
   "category": "patchouli:basics",
-  "sortnum": 2,
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:spotlight",

@@ -6,11 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Press $(l)R$() to switch between battle stance and mining stance.$(br2)In battle stance: $(l)Left Alt$() dodges, $(l)right-click$() guards, $(l)G$() locks on, $(l)K$() opens the skill menu. Dodges, guards and weapon skills cost stamina."
-    },
-    {
-      "type": "patchouli:text",
-      "text": "Every weapon type swings differently. Greatswords and hammers hit hard and slow; daggers and katanas are quick. Find one you like and get good."
+      "text": "Press $(l)R$() to switch between $(l)battle stance$() and mining stance. Fight in battle stance; mine and build in mining stance.$(br2)In battle stance: $(l)left-click$() attacks in combos, $(l)Left Alt$() dodges, $(l)right-click$() guards, $(l)G$() locks on, and $(l)K$() opens your skills. Dodges, guards and weapon skills cost $(l)stamina$(): watch the bar."
     }
   ]
 }

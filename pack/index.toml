@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "e42374e2e5bd64ac8c37bc0cd72164154025cb4e433d2c0970dc69953b81ba53"
+hash = "19740d6d65a81612db4e7ab47d833a04881c2f16bc7831c804512bb7643fada9"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -603,56 +603,120 @@ file = "patchouli_books/firelink_codex/en_us/categories/making.json"
 hash = "4a8827a259b4728ef4a9f569270a6a66aacfa46c2fdcd9a2f73d61a533fb0f63"
 
 [[files]]
+file = "patchouli_books/firelink_codex/en_us/categories/together.json"
+hash = "3aacb9293908985472c8358474e921ac81b9a8c3096cbc65a5ad3fddb7960750"
+
+[[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/world.json"
 hash = "7bbf15b7c315187b376819ab6c8a4d574af158c848278c479b27a03abed4fa81"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/bonfires.json"
-hash = "f809a25bf4cb95dde29c84e0d3b737b103062a303c877c647b01ed26a4890281"
+hash = "b12b1c7b16576cce2ac9b7f87783f125466d5b6ec39630d697a7d612f2110910"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/death.json"
-hash = "de9cc87d98937a26ef17039d0af169aa80cac95be3820d0c607c1981454862de"
+hash = "be549a8ddd38918f0fc0a8f1c0238b810eb1629ff434918edef5a30924287890"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/estus.json"
-hash = "482fe5f12dd327f63ae95c2e20a14bed9f7fa49946e4dae5db8663dea7a34afe"
+hash = "065f149be111837ecdc042eb8682f61fb40d101b9f6b9cea647b22c27c9fdb00"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/firelink.json"
-hash = "0aff21399658c5f160751f1916830c497e1b3cece643bb3264b47769bc4f2c77"
+hash = "69072650333aab9a0f10b6ff7d23c71d5de523b10a1925c7607c49859b6f0e82"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/first_steps.json"
+hash = "5c408ebddb53a538303b2b046d7c2e7e3b56a6e535fc5a754e4de3d5a9b8876c"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/reinforcement.json"
-hash = "5b1a847d9d6000f954ac94dd05db958d75ba4482d3e4bace823bbfcf7e7aabdc"
+hash = "e3b2aa4e8e213762c118f6b46471bc82aee774f8120d08f79b67a351179a418b"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/sanity.json"
+hash = "67f6992e95cdb9c687377083396c31aa5a1ceeee474cf638ace01a62b73fd4ac"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/souls.json"
+hash = "f941135221b150388a45807acf39150d33b8d5214c33a6b12f6d1a5398199f07"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/welcome.json"
+hash = "90485f613a6b9fbe11e086cb5d84bfc098f9c142162ed4a7c60eb5326fbb73e4"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/camera.json"
+hash = "9c651f610076728899938d016e02758f09fd92eea09d312ebaebc8b1a0c4f1a4"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/controls.json"
+hash = "c4feb65820ec7b34d977c528961db160a5741754e8019cf09eea3b970e9d1e5b"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/dodge.json"
+hash = "0730f5043981d03f49c8b6acee44da5d0bc8669460995ff6bba89a8db1da1012"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/epic_fight.json"
-hash = "c5ed0602556213f3faeb63cb03595c602b4eecda13a8f905a049550cf0ec8d0c"
-
-[[files]]
-file = "patchouli_books/firelink_codex/en_us/entries/combat/keys.json"
-hash = "11a41fbf414b970e08c1d38a9d5828c207a2aef5c10442124396cfa960377d6e"
+hash = "1c3aa2beaa059ff62772bdca35d3f74839a2dbe6eef685389a2adb6e9d20ed15"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/magic.json"
-hash = "fe79d44b7fecbf4586ed1adafefb6da16df91a8662d7955a569bc50ea2328d58"
+hash = "fb83e64f49f486b9238721237ef2a71b41766e3e21e5ea45acdd54b885126473"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/necromancy.json"
+hash = "e678f24c40e0886ce3f587461d4150d9e4e8970e423991ffccd2c278ebcf022a"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/soulslike.json"
+hash = "7670d3a0b10cfeb36989dd8d720e93e1832ffa2531fccc4a7b1946d367de1280"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/combat/weapons.json"
+hash = "33c909d158e06d5785a4ae80c36c1311b5461c7da4f08a4057d199679f0fce35"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/making/building.json"
-hash = "ca047b061aaa4f587d76a8b6e42a8ffccf9de442197acce3e309a40777c9cdf3"
+hash = "f8c275422b08cf6b5400795e06f8a3b0a6231f226357a470fe1de216356667c2"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/making/create.json"
-hash = "b99a107e91102074c298e80306adacb3662065f9217ac2cbf133ddbcdc2edae2"
+hash = "c286bf4251514105300f62d6b06830f3b5cfc36fb06f3b9dce843cf75b68a751"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/making/defence.json"
-hash = "40cd31023813d28d1a36a705bca99c86067b9fc3b387802dbba2f1099d50a639"
+hash = "0a52c1b4a8ce6ddef3bc8070e3e3249e5d145088a8b031c5bd56afc58b84f567"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/food.json"
+hash = "5ad36ecd7bff992c372ed7f2237239a1167a305b3e7d087ab41e415162092568"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/help.json"
+hash = "d2255e8277e77fa5cb50b7699db38604120c6fac2d0605512dcecadf60f180ec"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/storage.json"
+hash = "8db4b7b3711622d341786396c6193c0574fb2113ede2110423d8071f3dd3eba7"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/together/mods.json"
+hash = "56b4944db435ec296d34cf4520b1c0f4be378e2d62dfb176a94eeee8a143cdc4"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/together/together.json"
+hash = "01bf589b7ed250939dac2033b03450e8c68da54045e661c300122c8e036ac2e6"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/finding.json"
-hash = "42c49eaf5c17ce9eaef72e67ae39be50df30d071e7a26403b088348885c78e33"
+hash = "13c03aa5dad0f0d83e7c656c43eb9b447c48e73ed953140aba6e03e7e2a625b2"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/world/lairs.json"
+hash = "e6972b0be837345e2ab2a3b56336adfbe1dca3c553a2dc69670698004ac62616"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lord_souls.json"
@@ -660,11 +724,15 @@ hash = "949d7da1ebe2f8e177de3f7f901f1b0b84608598d71faaca0aef55646318be20"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lordran.json"
-hash = "f9591ae89a0cbabdb5216e927d84c7c08c6f38e144fc0e0c48f473d0abeb6024"
+hash = "16f4a5d9cf81db62568236eaea25211d8a3e57dba3749c5c1088901ab6c0b130"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/night.json"
-hash = "6a54a4c7583a5e5c457a5ccaecf29b9d953120e56192c7396dbea6ffc34734a5"
+hash = "c23eb0535798f82c6e250ac8bf3b335e8e239a48d8577e20bcdf23923463e6b2"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/world/realms.json"
+hash = "4af5f297f19fcefb974cda0729a5449421835939ada62adea9ef1014e3c9c353"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

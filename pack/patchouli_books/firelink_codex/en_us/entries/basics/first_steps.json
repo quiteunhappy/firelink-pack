@@ -1,0 +1,16 @@
+{
+  "name": "First Steps",
+  "icon": "minecraft:compass",
+  "category": "patchouli:basics",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "You wake in the $(l)Undercroft$(), beneath the shrine. Follow the orange messages north and climb the stair into the old steeple. Its doorway opens into the chapel.$(br2)Outside, six $(l)statues$() stand around the bonfire: right-click one to take up your origin. In the chapel, take one $(l)burial gift$() from the pedestals."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Light the bonfire with a $(item)Coiled Sword$() if it's out (stand by it and you'll be handed one), then rest. From then on, that's where you wake.$(br2)Then: gather, explore, pick a place to build. Read the rest of this book as you need it."
+    }
+  ]
+}

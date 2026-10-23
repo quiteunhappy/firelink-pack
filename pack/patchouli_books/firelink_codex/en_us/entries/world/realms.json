@@ -1,0 +1,12 @@
+{
+  "name": "Other Realms",
+  "icon": "minecraft:crying_obsidian",
+  "category": "patchouli:world",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The Nether goes by $(l)Lost Izalith$() here; the End by $(l)The Kiln$().$(br2)Beneath the Deep Dark lies $(l)the Otherside$() (Deeper and Darker): its way in waits in the Ancient Cities, and so does the Warden. Don't make a sound."
+    }
+  ]
+}

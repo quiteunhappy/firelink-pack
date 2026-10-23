@@ -1,0 +1,12 @@
+{
+  "name": "Lock-on and Camera",
+  "icon": "minecraft:spyglass",
+  "category": "patchouli:combat",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)G$() locks onto the nearest foe; the arrow keys or middle mouse move the lock. Fighting a boss without lock-on is a bold choice.$(br2)Prefer fighting in third person? $(l)Mods > Epic Fight > Config$(): turn on $(l)Camera Auto Switch$() (battle stance swaps to third person) and set $(l)TPS Perspective$() to $(l)Always$() for an over-the-shoulder view."
+    }
+  ]
+}

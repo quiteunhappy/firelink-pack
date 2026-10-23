@@ -2,16 +2,20 @@
   "name": "Bonfires",
   "icon": "bonfires:ash_bone_pile",
   "category": "patchouli:basics",
-  "sortnum": 0,
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Rest at a lit bonfire to $(l)heal$(), $(l)refill your Estus$() and $(l)set your respawn$().$(br2)You can travel between any bonfires you have rested at. Enemies nearby? No rest."
+      "text": "Rest at a lit bonfire to $(l)heal$(), $(l)refill your Estus$() and $(l)set where you wake$().$(br2)You can travel between any bonfires you have rested at. Enemies nearby? No rest."
     },
     {
       "type": "patchouli:spotlight",
       "item": "bonfires:coiled_sword",
       "text": "Plant a Coiled Sword in a $(item)Pile of Bone and Ash$() to light a new bonfire. Lost yours? Smith an iron sword with a Coiled Sword Fragment, using a fire charge as the template."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Light bonfires near anywhere you go often: a mine, a boss lair, your base. A $(item)Homeward Bone$() takes you back to the last one you rested at."
     }
   ]
 }

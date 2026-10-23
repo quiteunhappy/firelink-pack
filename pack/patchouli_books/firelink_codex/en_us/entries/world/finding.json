@@ -2,11 +2,11 @@
   "name": "Finding Trouble",
   "icon": "explorerscompass:explorerscompass",
   "category": "patchouli:world",
-  "sortnum": 1,
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "An $(item)Explorer's Compass$() points to any structure; a $(item)Nature's Compass$() to any biome. Both are craftable.$(br2)When you enter somewhere that matters, its name appears. The first time, loudly."
+      "text": "An $(item)Explorer's Compass$() points to any structure; a $(item)Nature's Compass$() to any biome. Both are craftable. $(l)M$() opens your map of everywhere you've been.$(br2)When you enter somewhere that matters, its name appears. Every stretch of land has a name of its own too, and it'll be the same name next time."
     }
   ]
 }

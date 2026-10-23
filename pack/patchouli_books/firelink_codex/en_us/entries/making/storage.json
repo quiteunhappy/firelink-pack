@@ -1,0 +1,12 @@
+{
+  "name": "Storage",
+  "icon": "sophisticatedbackpacks:backpack",
+  "category": "patchouli:making",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Backpacks ($(l)B$() to open the one you wear) hold a lot and take upgrades. Sophisticated Storage does the same for chests and barrels, and plugs into Create's belts and funnels.$(br2)Lootr gives everyone their own loot from each chest found in the world, so no one steals a friend's share."
+    }
+  ]
+}

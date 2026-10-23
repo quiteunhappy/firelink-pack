@@ -1,0 +1,12 @@
+{
+  "name": "Playing Together",
+  "icon": "minecraft:bell",
+  "category": "patchouli:together",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The server is $(l)mc.wmiddleton.com$(). Voice chat is built in: $(l)V$() opens its menu (pick push-to-talk or voice activation there), $(l)`$() makes groups.$(br2)The pack updates itself every time you press Play, and never touches your settings. Don't use your launcher's mod-update buttons on it."
+    }
+  ]
+}

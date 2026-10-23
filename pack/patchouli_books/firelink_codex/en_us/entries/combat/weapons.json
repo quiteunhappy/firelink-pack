@@ -1,0 +1,12 @@
+{
+  "name": "Weapons",
+  "icon": "simplyswords:diamond_claymore",
+  "category": "patchouli:combat",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Every weapon type swings differently. Greatswords, hammers and greataxes hit hard and slow; spears keep things at a distance; daggers and katanas are quick.$(br2)Simply Swords, Soulslike Weaponry, Cataclysm and the rest all have proper movesets here. Find one you like and get good."
+    }
+  ]
+}

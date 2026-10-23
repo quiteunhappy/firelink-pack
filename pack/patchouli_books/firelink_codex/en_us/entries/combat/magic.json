@@ -1,22 +1,22 @@
 {
-  "name": "Sorcery & Miracles",
+  "name": "Sorcery and Miracles",
   "icon": "irons_spellbooks:copper_spell_book",
   "category": "patchouli:combat",
-  "sortnum": 1,
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "irons_spellbooks:copper_spell_book",
-      "text": "Spells live in spellbooks. A caster's first spell is already in their book. New spells come as $(item)scrolls$(): bind them into a book at an $(item)Inscription Table$() (there's one in Firelink's chapel).",
+      "text": "Spells live in spellbooks. A caster's first spell is already in their book. New spells come as $(item)scrolls$(): bind them into a book at an $(item)Inscription Table$().",
       "title": "Spellbooks"
     },
     {
       "type": "patchouli:text",
-      "text": "A spellbook only works $(l)equipped$(): open your Curios slots with $(l)'$() (or the button in your inventory) and put it in the $(l)Spellbook$() slot.$(br2)Then cast with $(l)mouse side button 5$(), and pick spells from the wheel on $(l)side button 4$()."
+      "text": "A spellbook only works $(l)equipped$(): open your accessory slots with $(l)'$() and put it in the $(l)Spellbook$() slot.$(br2)Cast with $(l)mouse side button 5$(), pick spells from the wheel on $(l)side button 4$(). Mana refills over time."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Don't right-click a scroll$() unless you mean to: reading it casts the spell once and the scroll crumbles. Inscribed, it's yours to keep.$(br2)Necromancy is Goety's business: souls power its wands. Its focus wand is on $(l)Z$(), the focus wheel on $(l)=$()."
+      "text": "$(l)Don't right-click a scroll$() unless you mean to: reading it casts the spell once and the scroll crumbles. Inscribed, it's yours to keep.$(br2)Better robes, rings and books are found and crafted as you go."
     }
   ]
 }
