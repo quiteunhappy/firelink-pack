@@ -1,0 +1,7 @@
+# Firelink's client defaults for Verity, copied to config/ by Default Options only if the
+# player has no verity-common.toml yet (so their own changes and keys are never overwritten).
+# Forge fills in every other setting with the mod's default on first load.
+# The server has its own copy (AI provider and key, kicking, killing): never ship keys here.
+[GeneralSettings]
+	#The extreme darkness toggle
+	trueDarkness = false

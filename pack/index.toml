@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/verity-common.toml"
+hash = "bbd5475dca5578ff9950a6f21edb13fed63dbf68d67203ecf92975502288569c"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "a399a84f603b9336f676f46546d53f8ea0921a7f5d4bd66297d6e34e8f486a6d"
+hash = "444ee145e64c5ef6a817a616472111c1bc7c8c2de711300b03006f549cc732da"
 
 [[files]]
 file = "config/man_config.toml"
@@ -557,6 +561,11 @@ hash = "cd2bdde80d11284ae983e57ae61e481c1353e4fddce06acbdd9b9c25a9021c69"
 metafile = true
 
 [[files]]
+file = "mods/verity-je-official.pw.toml"
+hash = "5f386f0af8d61ca516e2f3e879caab060eb8a6eecb779870bb01629725573bca"
+metafile = true
+
+[[files]]
 file = "mods/weeping-angels.pw.toml"
 hash = "4a7baeca2e718ea352c011b4191f7478c0f0706e5a19953bb823e1d71cbdaa0a"
 metafile = true
@@ -569,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6c37fd14f638b6b4d1075dd702ca132ecbe810c4d1172a20c536281d79606929"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2b24a569befd901ae6db4e8dc4ec7c769083f01fe026309427a5cd706585c52d"
 metafile = true
 
 [[files]]
@@ -588,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "3db23bda5b5ebc9b63f63ef6443e0f43f712ed3abd2782f38774ee6679d1e889"
+hash = "2268b4f20c551bbedaa610754c900ee65b633cf7ce3b60f2d2f1cafdc53e68e4"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -609,6 +623,10 @@ hash = "3aacb9293908985472c8358474e921ac81b9a8c3096cbc65a5ad3fddb7960750"
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/world.json"
 hash = "7bbf15b7c315187b376819ab6c8a4d574af158c848278c479b27a03abed4fa81"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/basics/afflictions.json"
+hash = "5c1a9b4225a9efbed91668379c0612bc551b3148a87f907cd902ed95a9899996"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/bonfires.json"
@@ -704,7 +722,7 @@ hash = "8db4b7b3711622d341786396c6193c0574fb2113ede2110423d8071f3dd3eba7"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/together/mods.json"
-hash = "56b4944db435ec296d34cf4520b1c0f4be378e2d62dfb176a94eeee8a143cdc4"
+hash = "670f8ee9c3b9b3f690d2ebbd97acd50484e71946dca7d3e9aa35309686fe64da"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/together/together.json"
@@ -728,7 +746,7 @@ hash = "16f4a5d9cf81db62568236eaea25211d8a3e57dba3749c5c1088901ab6c0b130"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/night.json"
-hash = "c23eb0535798f82c6e250ac8bf3b335e8e239a48d8577e20bcdf23923463e6b2"
+hash = "fe9e3db0c91c9f2073c383f953b7b463e573c046659fb3500a48eae8b7e4c751"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/realms.json"

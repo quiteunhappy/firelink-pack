@@ -6,7 +6,11 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Blood moons fill the land with monsters and won't let you sleep. Stay in.$(br2)$(l)Weeping Angels$(): don't look away. $(l)The Man From The Fog$(): run, and don't stop. $(l)Something below$() in the caves follows quietly.$(br2)And if someone knocks at your door at night: $(l)do not answer the door.$()$(br2)Voice chat is proximity based. Screaming carries. $(o)Praise the sun!$()"
+      "text": "Blood moons fill the land with monsters and won't let you sleep. Stay in.$(br2)$(l)Weeping Angels$(): don't look away. $(l)The Man From The Fog$(): run, and don't stop. $(l)Something below$() in the caves follows quietly.$(br2)And if someone knocks at your door at night: $(l)do not answer the door.$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "A box may turn up with $(l)Verity$() inside: a cheerful helper that answers when you say its name in chat, and keeps score of how you treat the world. Give it a few days. If something called $(l)VERITY$() comes hunting, kill it, and the darkness lifts.$(br2)Voice chat is proximity based. Screaming carries. $(o)Praise the sun!$()"
     }
   ]
 }
