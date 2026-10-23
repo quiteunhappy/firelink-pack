@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "19740d6d65a81612db4e7ab47d833a04881c2f16bc7831c804512bb7643fada9"
+hash = "3db23bda5b5ebc9b63f63ef6443e0f43f712ed3abd2782f38774ee6679d1e889"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -656,7 +656,7 @@ hash = "c4feb65820ec7b34d977c528961db160a5741754e8019cf09eea3b970e9d1e5b"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/dodge.json"
-hash = "0730f5043981d03f49c8b6acee44da5d0bc8669460995ff6bba89a8db1da1012"
+hash = "1cf7bf7af9b67bc4cd9049518831ad0e92fe28386fd4dd5591287b3dafb8eeb9"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/epic_fight.json"
