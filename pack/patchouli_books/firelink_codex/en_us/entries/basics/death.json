@@ -11,6 +11,10 @@
     {
       "type": "patchouli:text",
       "text": "Every death is counted on the player list ($(l)Tab$()). Every tenth is announced.$(br2)$(o)YOU DIED$() is not a suggestion."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Every kill feeds your $(l)souls$(), even if only a little: more for the elite, a great deal for lords and bosses. Spend them with the Merchant and Blacksmith."
     }
   ]
 }

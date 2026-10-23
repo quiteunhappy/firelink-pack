@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "1f2f54df613ff0c54c27afa501e4ab93d0c245a6e34145e79546daf64be17dcd"
+hash = "75559d656040621adf775f0e7e1b1cb2752410999e77f75ea066bd1c3e4d35dd"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -553,7 +553,7 @@ hash = "f809a25bf4cb95dde29c84e0d3b737b103062a303c877c647b01ed26a4890281"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/death.json"
-hash = "2d169ed125cff8ec237cff75ef59a3d1ad723b6febb1a0f97d740d6f5a13f5c3"
+hash = "de9cc87d98937a26ef17039d0af169aa80cac95be3820d0c607c1981454862de"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/estus.json"
@@ -577,7 +577,7 @@ hash = "11a41fbf414b970e08c1d38a9d5828c207a2aef5c10442124396cfa960377d6e"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/magic.json"
-hash = "98c8f0570e0c5f6d520824a9f1001cbd9a6c05e8bab72ef0baa9286bb40a68c6"
+hash = "fe79d44b7fecbf4586ed1adafefb6da16df91a8662d7955a569bc50ea2328d58"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/finding.json"
