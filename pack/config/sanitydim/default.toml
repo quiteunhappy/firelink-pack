@@ -8,7 +8,7 @@
 	positive_multiplier = 1.0
 	#For balancing purposes: the effectiveness of all negative sanity sources will be multiplied by this number
 	#Range: 1.401298464324817E-45 ~ 3.4028234663852886E38
-	negative_multiplier = 1.0
+	negative_multiplier = 0.6
 
 	#Configuration for passive sanity sources
 	[sanity.passive]
@@ -65,7 +65,7 @@
 		#Supports boolean block state properties (can be omitted together with brackets)
 		#Prefix with TAG_ and follow with a tag registry name to define all blocks with the tag
 		#NOTE: not everything may work correctly with any configuration, e.g. multiblocks like tall flowers and beds; needs testing
-		blocks = ["minecraft:campfire[lit=true];0.1;4;false", "bonfires:ash_bone_pile;2.0;12;false"]
+		blocks = ["minecraft:campfire[lit=true];0.1;4;false"]
 
 	#Configuration for active sanity sources
 	[sanity.active]

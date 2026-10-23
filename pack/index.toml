@@ -18,7 +18,7 @@ hash = "44a3e6cb887147425660856281c67b116fce600585d6d68b13dbdff0df5837e2"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "cc0886cfe4d1ee9aa0821e30bf52f440457308c55c58c0fde59c3b5d47c02964"
+hash = "62c51847ef944d8fdcfa6f648f77b0d8457cdb6f1c3c47e119900aee8571b8b3"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "a8fb97c859d1908c7ae59fbb4a6d8a804be6100fc03ced33267c1d5fa1b569df"
+hash = "643d3ae38aeae10baa61fd66c06ebd912a4fe4953e0bf618d693f24973f85553"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ hash = "ad1aac60b6236c67b9d13be7aa2bc6b6816842564486ed4e3dab524931834348"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/sanity.json"
-hash = "2d6f65a57d3dc7026056a710106dea74935000ce93a450f4e157c4f3eb4f3f86"
+hash = "e191bb640c22357c80c3c104d174308a85eee87ca14608403400052f68d3d2f1"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/souls.json"

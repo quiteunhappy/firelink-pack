@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Your $(l)sanity$() wears down in darkness, in the rain, near horrors and when changing worlds. Let it fall far enough and you'll start seeing things. Some of them are real.$(br2)It recovers when you sleep, sit by a campfire, or rest near a bonfire. Firelink's bonfire mends it from twelve blocks away, under a roof."
+      "text": "Your $(l)sanity$() wears down in darkness, in the rain, near horrors and when changing worlds. Let it fall far enough and you'll start seeing things. Some of them are real.$(br2)It recovers when you sleep or sit by a campfire, and fastest of all resting right beside a lit bonfire. Inside Firelink's walls it slowly mends on its own."
     }
   ]
 }
