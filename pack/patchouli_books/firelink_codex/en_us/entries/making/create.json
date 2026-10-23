@@ -1,0 +1,17 @@
+{
+  "name": "Machines",
+  "icon": "create:cogwheel",
+  "category": "patchouli:making",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:water_wheel",
+      "text": "Waterwheels and windmills turn shafts; shafts turn everything else. Hold $(l)W$() over any Create item to watch a $(o)Ponder$() scene showing how it works."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Put $(item)Mechanical Harvesters$() and $(item)Ploughs$() on a moving contraption and your fields tend themselves while you stay behind the walls.$(br2)Central Kitchen lets Create run Farmer's Delight cooking. Your toolboxes open on $(l)Right Alt$()."
+    }
+  ]
+}

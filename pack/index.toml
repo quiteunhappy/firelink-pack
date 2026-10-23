@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "61db99bf01c0cd4cd4d4d30917ef99d01f7c24a13dd6bf11eec8cd3ceac5db29"
+hash = "a399a84f603b9336f676f46546d53f8ea0921a7f5d4bd66297d6e34e8f486a6d"
 
 [[files]]
 file = "config/man_config.toml"
@@ -132,6 +132,11 @@ hash = "95904775331f0f37eb5054dc3c85fd1fd05305ec5de7ac64f61c098a2120435d"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "1b30b230fe5bc48dbb1bb85690dc0d9efd47bcf88de49cef5e42e18f4606a805"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "e8647988045d1167436521a93c45ec732942e8dae9cce7f25c113d6ffd577af5"
 metafile = true
@@ -139,6 +144,21 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "160d5babf7a3c2f93996a6610d266820b65c0812b4845ad8deef3a979e334e2d"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "e430edff6147f09d962840af477144b5d4c4b6672854e41354adc8fe95cc580d"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "9f5c513676bb16869fb4c282de43f461dae179c0064999a57293f2192cc1ad7f"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "fdc6f3018c99c5795be31c4b380a66a94d77d2eca1bd850d1048b656fdb6de91"
 metafile = true
 
 [[files]]
@@ -302,6 +322,31 @@ hash = "1ab3139b6622ecb85293ae421e0ba58459b4c83f50afd7d0fa366aec0190eff9"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "307ca5d06c74d23e64c421c0233f9cfdebee4319e454bf0e4bb3aa5e6fa9010b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "23c8503371112b2afb09e61abf1b08e5096848a55e0cea3d82ad4b24c3e4ce86"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "2cc29ce063d4bd5291993ce852b9b1058e018b889ca0ea4b3708de839147458d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "7e4975172e44a647358817336dd1924adf1641da5d464a75d644ac4a1f437611"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "199647c9d0355813f8dd7a326356fdeb1f8400809bbc978b6c41fd72b5a326aa"
+metafile = true
+
+[[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
 hash = "a21cac2d99d26757521854afec860aa58dd24c172a9c476155b6237d827634a1"
 metafile = true
@@ -402,6 +447,11 @@ hash = "85a6ff4449425853988ae5c1acda6e7acc1a4071fd1e2a108ab2c3b2fd3d7f63"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "f7fd73a02364f860b8dc6e2359b943d6a0585d8b39379199d66641c722f2f9e4"
+metafile = true
+
+[[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 hash = "b3c3d7dc155e4c0e1f2c0f3e212854bec4434b90dad8ca02f4ebd9d0d7b2e08e"
 metafile = true
@@ -434,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "2c470987b6616e6c202a066f7ca7622547815dfbffef5cbff5df64c1d23cd1b6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "27ba1d7064732ba760cbf3d685a41fb2c1b41909d884a250e7716ab22a60c39d"
 metafile = true
 
 [[files]]
@@ -533,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "75559d656040621adf775f0e7e1b1cb2752410999e77f75ea066bd1c3e4d35dd"
+hash = "e42374e2e5bd64ac8c37bc0cd72164154025cb4e433d2c0970dc69953b81ba53"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -544,8 +599,12 @@ file = "patchouli_books/firelink_codex/en_us/categories/combat.json"
 hash = "36deebd445ee9ef9d15c88f64056d1b522a919f6cf90f566c1a4577d09b66796"
 
 [[files]]
+file = "patchouli_books/firelink_codex/en_us/categories/making.json"
+hash = "4a8827a259b4728ef4a9f569270a6a66aacfa46c2fdcd9a2f73d61a533fb0f63"
+
+[[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/world.json"
-hash = "7293f4ed01273b97c0367c28576f18ded18553b50f02f51fcc7bac9d63822c5d"
+hash = "7bbf15b7c315187b376819ab6c8a4d574af158c848278c479b27a03abed4fa81"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/bonfires.json"
@@ -578,6 +637,18 @@ hash = "11a41fbf414b970e08c1d38a9d5828c207a2aef5c10442124396cfa960377d6e"
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/combat/magic.json"
 hash = "fe79d44b7fecbf4586ed1adafefb6da16df91a8662d7955a569bc50ea2328d58"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/building.json"
+hash = "ca047b061aaa4f587d76a8b6e42a8ffccf9de442197acce3e309a40777c9cdf3"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/create.json"
+hash = "b99a107e91102074c298e80306adacb3662065f9217ac2cbf133ddbcdc2edae2"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/making/defence.json"
+hash = "40cd31023813d28d1a36a705bca99c86067b9fc3b387802dbba2f1099d50a639"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/finding.json"

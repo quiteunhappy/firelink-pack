@@ -1,3 +1,5 @@
+key_create.keyinfo.toolbelt:key.keyboard.right.alt
+key_create.keyinfo.toolmenu:key.keyboard.f12
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_key.cataclysm.boots_ability:key.keyboard.backslash

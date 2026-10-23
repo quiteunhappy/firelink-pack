@@ -1,0 +1,17 @@
+{
+  "name": "Defence",
+  "icon": "bosses_of_mass_destruction:mob_ward",
+  "category": "patchouli:making",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bosses_of_mass_destruction:mob_ward",
+      "text": "A $(item)Mob Ward$() stops monsters spawning for a good distance around it. You'll need pieces of the Obsidilith and an Ancient Anima to build one. Worth it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "For anything that walks up anyway: $(l)Create Big Cannons$(). Cast a barrel, mount it, load powder and shot. Aim with $(l)C$() while manning it.$(br2)Light keeps most things away. Not all things."
+    }
+  ]
+}
