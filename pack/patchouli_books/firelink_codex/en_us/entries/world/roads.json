@@ -1,0 +1,16 @@
+{
+  "name": "The Old Roads",
+  "icon": "minecraft:lantern",
+  "category": "patchouli:world",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Worn paths of earth and mossy stone run out from Firelink: north from the gate, south from behind the chapel, and east and west of the shrine. They lead to villages, towers, temples, taverns and graveyards, some of them a long way off."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Where a road forks, a $(l)signpost$() names what lies down the branch. At the end, another points the way home. Lanterns mark the way every fifty blocks or so; some have gone out.$(br2)The bridges are old. Mind the gaps."
+    }
+  ]
+}

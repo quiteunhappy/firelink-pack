@@ -2,7 +2,7 @@
   "name": "The Night",
   "icon": "minecraft:clock",
   "category": "patchouli:world",
-  "sortnum": 6,
+  "sortnum": 7,
   "pages": [
     {
       "type": "patchouli:text",

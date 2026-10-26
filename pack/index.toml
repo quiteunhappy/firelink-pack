@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "9f2bd6dc49f7f6db2d96a52f1d61953250c829d44dda75781e4da46a9e2f1520"
+hash = "02ea20ac6aea18c3095ef7776216cb82db5f0f7913156f68c18e9d5ee8404170"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -762,15 +762,19 @@ hash = "949d7da1ebe2f8e177de3f7f901f1b0b84608598d71faaca0aef55646318be20"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lordran.json"
-hash = "dad081063ad5c1d16eaa2b72b9112adc231680ca222396492d4d2fc799326534"
+hash = "57853ba3b971fe77797e38533d4dc60cedd008a1115ff08719caff796b42e321"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/night.json"
-hash = "7322bae22a248a7a013101bc24962a955e20070edfeb85a72c2debee55516e76"
+hash = "1b32582e0c27d28dcebc3a5dac3101d1a1424cdbe3405aba8f920860f6b93032"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/realms.json"
-hash = "6d5eeae3e40ec3d68f9cb76a66a0db24e0f818340b8d377ee711571ac5dd9d9a"
+hash = "0bb914eed7ec25e30c20728c37aab317ccb7f29a99f506bdf395653804e6ebf6"
+
+[[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/world/roads.json"
+hash = "e6af44a3ba794bf0dfd5d0959574cfbbf256d3914e8aedc0629fefd817db31da"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

@@ -2,7 +2,7 @@
   "name": "Lordran",
   "icon": "dark_souls_expansion:crest_of_artorias",
   "category": "patchouli:world",
-  "sortnum": 4,
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:text",

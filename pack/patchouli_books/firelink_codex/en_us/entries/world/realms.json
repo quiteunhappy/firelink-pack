@@ -2,7 +2,7 @@
   "name": "Other Realms",
   "icon": "minecraft:crying_obsidian",
   "category": "patchouli:world",
-  "sortnum": 5,
+  "sortnum": 6,
   "pages": [
     {
       "type": "patchouli:text",
