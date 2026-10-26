@@ -294,6 +294,11 @@ hash = "31f14494696d29dbc6bd2e1e2b43ba13aee96b45f4e0c12efecc6744927897cf"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "d34e85f63d3f6a1e67208c3454544556b81ee8393aff89c20c88478a9311f4b3"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "6edfa42e3f81f709a5316b8449fb333f9de5ad33e65d2bd46dbb0c48da32c1cb"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "e07074ee23ddc99efb01c6b6a172cee50501b77c2cb338119ce245f83b1fc621"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "be645a6febd5f77fbe1eee417e8a66611891ffef3d267c0dfbf20c5f9db5d07a"
 metafile = true
 
 [[files]]
