@@ -2,11 +2,11 @@
   "name": "Lordran",
   "icon": "dark_souls_expansion:crest_of_artorias",
   "category": "patchouli:world",
-  "sortnum": 3,
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Behind the chapel altar sits a sealed gate. A $(item)Crest of Artorias$() opens it for everyone, for good: 8 Ruin Fragments and a Soul of Undead, found in old dungeons.$(br2)Lordran holds the Asylum, the Undead Parish and Burg, Sen's Fortress, the Catacombs and Artorias' Colosseum, and their demons."
+      "text": "Behind the chapel altar sits a sealed gate. A $(item)Crest of Artorias$() opens it for everyone, for good: 8 Ruin Fragments around a Soul. Old dungeons hide them, and the wandering knights carry them.$(br2)Lordran holds the Asylum, the Undead Parish and Burg, Sen's Fortress, the Catacombs and Artorias' Colosseum, and their demons."
     },
     {
       "type": "patchouli:text",

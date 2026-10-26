@@ -1,0 +1,20 @@
+{
+  "name": "The Wandering Knights",
+  "icon": "simplyswords:gold_glaive",
+  "category": "patchouli:world",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Two knights ride the lands around Firelink. They never leave their ground, and they return three days after they fall.$(br2)$(l)The Tree Sentinel$(), in gold on a white warhorse, keeps the steppe two hundred blocks south and a little west of the shrine. Its shield turns blows from the front: flank it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)The Night's Cavalry$(), black on a black horse, rides the plains far to the north-west, and only after dark. At dawn it is gone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Both charge (the horse rears first: sidestep), sweep with a glaive (it raises it first: roll), and slam the ground so a ring of light rolls outward: $(l)jump the ring$(). Kill the horse and the knight fights on foot. Wounded, they grow faster.$(br2)Each carries four $(l)Ruin Fragments$(), and the Cavalry a $(l)Soul$(): together, a Crest of Artorias."
+    }
+  ]
+}

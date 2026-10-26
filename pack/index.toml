@@ -260,6 +260,10 @@ hash = "76e32ee27e266440fcbd7e1a9a6e9d5103c4b006c6b7090ee871720e23d69d1f"
 metafile = true
 
 [[files]]
+file = "mods/firelink_bosses-1.0.0.jar"
+hash = "c4dc96c261f007d35c4b33e87360bd909dc6702f7667c86a18ce1462f3b90d51"
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "dd5365da25abe84aeda2bfde7afe87150f0f5fc03a4f9b79559cea75bfc9fcc3"
 metafile = true
@@ -606,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "d7f7439c05c2245b1f3720595e4b23fde8cc585394d73fae1b7cad85171fab11"
+hash = "cb2ecc33b2cfa47dd19de6926e17c02e9c5d6865dc0dfddf4bf61368e0eec85c"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -745,6 +749,10 @@ file = "patchouli_books/firelink_codex/en_us/entries/world/finding.json"
 hash = "13c03aa5dad0f0d83e7c656c43eb9b447c48e73ed953140aba6e03e7e2a625b2"
 
 [[files]]
+file = "patchouli_books/firelink_codex/en_us/entries/world/knights.json"
+hash = "0e3e5b867c8c0e5ce0e6791e476b7cd58af97ac135e5701034266c1a852aa699"
+
+[[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lairs.json"
 hash = "e6972b0be837345e2ab2a3b56336adfbe1dca3c553a2dc69670698004ac62616"
 
@@ -754,15 +762,15 @@ hash = "949d7da1ebe2f8e177de3f7f901f1b0b84608598d71faaca0aef55646318be20"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lordran.json"
-hash = "16f4a5d9cf81db62568236eaea25211d8a3e57dba3749c5c1088901ab6c0b130"
+hash = "dad081063ad5c1d16eaa2b72b9112adc231680ca222396492d4d2fc799326534"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/night.json"
-hash = "fe9e3db0c91c9f2073c383f953b7b463e573c046659fb3500a48eae8b7e4c751"
+hash = "7322bae22a248a7a013101bc24962a955e20070edfeb85a72c2debee55516e76"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/realms.json"
-hash = "4af5f297f19fcefb974cda0729a5449421835939ada62adea9ef1014e3c9c353"
+hash = "6d5eeae3e40ec3d68f9cb76a66a0db24e0f818340b8d377ee711571ac5dd9d9a"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

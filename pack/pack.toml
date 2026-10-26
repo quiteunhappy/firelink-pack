@@ -1,12 +1,12 @@
 name = "Firelink"
 author = "quiteunhappy"
-version = "0.6.4"
+version = "0.7.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0470ff65b77bacd7264afe38b4568d200125557b7b0b39da1ccd0d79098bc667"
+hash = "9ce3869da9fb0598196b4bccae37087d042d853bec5a8cff9bf3cbf46fbfabbd"
 
 [versions]
 minecraft = "1.20.1"
