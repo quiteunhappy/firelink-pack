@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Two knights ride the lands around Firelink. They never leave their ground, and they return three days after they fall.$(br2)$(l)The Tree Sentinel$(), in gold on a white warhorse, keeps the steppe two hundred blocks south and a little west of the shrine. Its shield turns blows from the front: flank it."
+      "text": "Two knights ride the lands around Firelink. They never leave their ground, and they return three days after they fall.$(br2)$(l)The Tree Sentinel$(), in gold on a white warhorse, keeps the steppe about two hundred blocks north of the shrine, a little west. Its shield turns blows from the front: flank it."
     },
     {
       "type": "patchouli:text",

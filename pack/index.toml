@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/firelink_bosses-1.0.0.jar"
-hash = "c4dc96c261f007d35c4b33e87360bd909dc6702f7667c86a18ce1462f3b90d51"
+hash = "e8c6d9c45374f33a3652e0ba11c2a20c81d98b64997ee062ef25aede917ab779"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/firelink_codex/book.json"
-hash = "cb2ecc33b2cfa47dd19de6926e17c02e9c5d6865dc0dfddf4bf61368e0eec85c"
+hash = "9f2bd6dc49f7f6db2d96a52f1d61953250c829d44dda75781e4da46a9e2f1520"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/categories/basics.json"
@@ -658,7 +658,7 @@ hash = "5c408ebddb53a538303b2b046d7c2e7e3b56a6e535fc5a754e4de3d5a9b8876c"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/leveling.json"
-hash = "e1676d0bf0015437c86317095771c2dafebeb6471f58afef3c88a23b5928a816"
+hash = "27c74eac349809fa3c401205d475d4ce74e14f77950cebfc101ada85541f63b3"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/basics/path.json"
@@ -750,7 +750,7 @@ hash = "13c03aa5dad0f0d83e7c656c43eb9b447c48e73ed953140aba6e03e7e2a625b2"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/knights.json"
-hash = "0e3e5b867c8c0e5ce0e6791e476b7cd58af97ac135e5701034266c1a852aa699"
+hash = "64471b22ae86f2687fcec56ba63dca6c0f0081822563014066fb23ebcc3b09aa"
 
 [[files]]
 file = "patchouli_books/firelink_codex/en_us/entries/world/lairs.json"
