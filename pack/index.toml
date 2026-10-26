@@ -594,6 +594,11 @@ hash = "83866229ed487b9a6c324715ba3ee22ec633cf1224f334d39840fe7a7e7e654c"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "7a6c6430bbd6e2bddb27e6012d25e0d6e5447985ce616f193daa89e6bd81ca39"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6c37fd14f638b6b4d1075dd702ca132ecbe810c4d1172a20c536281d79606929"
 metafile = true
